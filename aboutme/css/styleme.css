@@ -4,14 +4,36 @@
     height: 100%;
     color: white;
     font-family: Arial, Arial Black, Verdana;
-    text-align: center;
-    font-size: 18px;
+    /*text-align: center;*/
+    font-size: 20px;
+}
 
+p::first-letter{
+    font-size: 36px;
 }
 ul,ol{
     display: inline-block;
+    text-align: left;
+    font-size: 18px;
+}
+
+dt{
+    font-size: 16px;
+    color: aqua;
+}
+
+dd{
     font-size: 14px;
 }
 
+
+
+a{
+    text-decoration: none;
+}
 a:link{color:#3C96EB;}
 a:visited{color:#357FFF;}
+a:hover{
+    color: red;
+    text-decoration:underline;
+}
