@@ -1,0 +1,13 @@
+.container {
+    background: #23253E;
+    width: 100%;
+    height: 100%;
+    color: white;
+    font-family: Arial, Arial Black, Verdana;
+    text-align: center;
+}
+ul,ol{
+    display: inline-block;
+}
+a:link{color:#3C96EB;}
+a:visited{color:#357FFF;}
