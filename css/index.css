@@ -36,6 +36,11 @@ div{
 
 ul,ol{
     display: inline-block;
+    text-align: left;
+}
+
+li{
+    margin-top: 10px;
 }
 a:link{color:#3C96EB;}
 a:visited{color:#357FFF;}
