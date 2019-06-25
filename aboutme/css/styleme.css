@@ -5,9 +5,12 @@
     color: white;
     font-family: Arial, Arial Black, Verdana;
     text-align: center;
+    font-size: 18px;
+
 }
 ul,ol{
     display: inline-block;
+    font-size: 14px;
 }
 a:link{color:#3C96EB;}
 a:visited{color:#357FFF;}

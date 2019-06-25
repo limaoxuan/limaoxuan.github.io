@@ -1,4 +1,32 @@
-.my-image{
-    height: 30px;
-    width: auto;
+
+*{
+    margin: 0;
+    padding: 0;
 }
+
+.header{
+    position: relative;
+    margin-top: 50px;
+
+}
+
+.my-image{
+    width: 200px; height: 267px;
+}
+
+
+.container {
+    position: absolute;
+    background: #23253E;
+    margin: 0 0 0 0;
+    color: white;
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Arial Black, Verdana;
+    text-align: center;
+}
+ul,ol{
+    display: inline-block;
+}
+a:link{color:#3C96EB;}
+a:visited{color:#357FFF;}
