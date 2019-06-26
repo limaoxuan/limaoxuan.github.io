@@ -5,6 +5,9 @@
     font-family: Georgia, Garamond, SansSerif;
     background: url("https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/silverware.jpg");
 }
+.footer{
+
+}
 
 li{
     list-style-type: none;
@@ -18,11 +21,15 @@ a {
 }
 
 .heading {
-    background: #F0F0F0;
+
     color: #A4A400;
     font-family: Lucida Sans Unicode, Helvetica, Arial, SansSerif;
     text-decoration: underline;
     letter-spacing:0.25em;
+}
+
+.heading span{
+    background: #F0F0F0;
 }
 
 .main-heading {
