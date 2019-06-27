@@ -1,0 +1,68 @@
+
+body {
+    border-color: green;
+
+
+    background: url("http://mumstudents.org/cs472/2019-07-RS/Labs/2/background.gif");
+}
+
+.container {
+    border: 10px solid white;
+
+    background: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.content {
+    overflow: auto;
+}
+.left-content {
+    width: 20%;
+    float: left;
+    margin-right: 5%;
+    border: 5px solid;
+    border-radius: 15px;
+    padding: 10px;
+    margin-top: 10px;
+    background: #9BE1E0;
+}
+
+
+
+.right-content {
+    float: left;
+    width: 70%;
+}
+
+.section {
+    border: #C2E9E9 solid 4px;
+    border-radius: 15px;
+    background-color: #E8FBFB;
+    padding: 5px;
+    margin-top: 10px;
+    height: auto;
+    overflow: auto;
+}
+
+.content .my-image {
+    float: right;
+}
+
+span {
+    /*border-color: purple;*/
+    border-bottom: #2D9EA3 dashed 2px;
+}
+
+
+.header {
+    /*border-color: red;*/
+    background: #A8F0F0;
+    text-align: right;
+}
+
+.header-subtitle {
+    /*border-color: orange;*/
+    font-size: 14pt;
+    margin: 5px;
+}
