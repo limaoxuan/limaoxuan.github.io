@@ -2,24 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/css/movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/bannerbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/critic.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/fresh.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/overview.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/rbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/rotten.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/rottenbig.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/tmnt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/w3c-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/w3c-html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/images/w3c-xhtml.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignments/homework2/tmnt.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/journal/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/journal/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/homework2/tmnt.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework2/tmnt.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -32,10 +15,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="704">
               <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
             </state>
           </provider>
@@ -57,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="329">
+              <caret line="344" column="14" lean-forward="true" selection-start-line="344" selection-start-column="14" selection-end-line="344" selection-end-column="14" />
               <folding>
                 <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -104,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/homework1/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="9" selection-start-line="9" selection-end-line="10" />
+            <state relative-caret-position="172">
+              <caret line="142" column="2" lean-forward="true" selection-start-line="142" selection-start-column="2" selection-end-line="147" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -183,9 +166,9 @@
         <option value="$PROJECT_DIR$/journal/css/layout.css" />
         <option value="$PROJECT_DIR$/assignments/homework2/test.html" />
         <option value="$PROJECT_DIR$/assignments/homework2/css/test.css" />
-        <option value="$PROJECT_DIR$/assignments/homework2/tmnt.html" />
         <option value="$PROJECT_DIR$/assignments/homework2/css/movie.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assignments/homework2/tmnt.html" />
       </list>
     </option>
   </component>
@@ -235,20 +218,6 @@
               <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assignments" type="462c0819:PsiDirectoryNode" />
               <item name="homework2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -348,12 +317,12 @@
       <updated>1561400929177</updated>
       <workItem from="1561400930297" duration="6828000" />
       <workItem from="1561474099802" duration="25283000" />
-      <workItem from="1561659821651" duration="16884000" />
+      <workItem from="1561659821651" duration="17112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48995000" />
+    <option name="totallyTimeSpent" value="49223000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="117" y="24" width="1392" height="843" extended-state="0" />
@@ -463,13 +432,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework1/pie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/journal/journal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -480,18 +442,6 @@
             <element signature="n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -508,8 +458,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="704">
           <caret line="22" column="56" selection-start-line="22" selection-start-column="56" selection-end-line="22" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework1/pie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="142" column="2" lean-forward="true" selection-start-line="142" selection-start-column="2" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="344" column="14" lean-forward="true" selection-start-line="344" selection-start-column="14" selection-end-line="344" selection-end-column="14" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#6;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
