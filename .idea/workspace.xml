@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+            <state relative-caret-position="133">
+              <caret line="288" column="56" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -57,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/homework2/css/movie.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1291">
-              <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+            <state relative-caret-position="136">
+              <caret line="149" column="10" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="10" />
               <folding>
                 <element signature="e#387#395#0" />
               </folding>
@@ -105,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1760">
-              <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+            <state relative-caret-position="146">
+              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -136,12 +136,14 @@
       <find>colu</find>
       <find>tur</find>
       <find>the tur</find>
-      <find>A2B964</find>
       <find>alt</find>
       <find>img</find>
+      <find>&lt;img src=&quot;images/critic.gif&quot;&gt;</find>
+      <find>A2B964</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;img src=&quot;https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif&quot; alt=&quot;pie&quot;/&gt;</replace>
+      <replace>&lt;img src=&quot;images/critic.gif&quot; alt=&quot;critic big&quot;/&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -176,7 +178,7 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-45" />
+    <option name="x" value="145" />
     <option name="y" value="23" />
     <option name="width" value="1392" />
     <option name="height" value="843" />
@@ -215,6 +217,13 @@
               <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assignments" type="462c0819:PsiDirectoryNode" />
               <item name="homework2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="homework2" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -314,15 +323,15 @@
       <updated>1561400929177</updated>
       <workItem from="1561400930297" duration="6828000" />
       <workItem from="1561474099802" duration="25283000" />
-      <workItem from="1561659821651" duration="17766000" />
+      <workItem from="1561659821651" duration="18224000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49877000" />
+    <option name="totallyTimeSpent" value="50335000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-45" y="23" width="1392" height="843" extended-state="0" />
+    <frame x="145" y="23" width="1392" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981685" />
@@ -398,13 +407,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="55" column="26" lean-forward="true" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework1/images/pie.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -443,16 +445,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework2/css/movie.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1291">
-          <caret line="67" column="17" lean-forward="true" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
-          <folding>
-            <element signature="e#387#395#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -467,10 +459,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework2/css/movie.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="149" column="10" selection-start-line="149" selection-start-column="1" selection-end-line="149" selection-end-column="10" />
+          <folding>
+            <element signature="e#387#395#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
+        <state relative-caret-position="133">
+          <caret line="288" column="56" selection-start-line="288" selection-start-column="56" selection-end-line="288" selection-end-column="56" />
         </state>
       </provider>
     </entry>
