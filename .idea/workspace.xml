@@ -43,13 +43,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="342" column="44" selection-start-line="342" selection-start-column="44" selection-end-line="342" selection-end-column="44" />
-              <folding>
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#6;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="88">
+              <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -87,8 +82,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/homework1/pie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="142" column="2" lean-forward="true" selection-start-line="142" selection-start-column="2" selection-end-line="147" selection-end-column="8" />
+            <state relative-caret-position="87">
+              <caret line="141" selection-start-line="141" selection-end-line="148" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -142,6 +137,8 @@
       <find>tur</find>
       <find>the tur</find>
       <find>A2B964</find>
+      <find>alt</find>
+      <find>img</find>
     </findStrings>
     <replaceStrings>
       <replace>&lt;img src=&quot;https://courses.cs.washington.edu/courses/cse190m/09sp/homework/1/pie_icon.gif&quot; alt=&quot;pie&quot;/&gt;</replace>
@@ -179,8 +176,8 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-96" />
-    <option name="y" value="200" />
+    <option name="x" value="-45" />
+    <option name="y" value="23" />
     <option name="width" value="1392" />
     <option name="height" value="843" />
   </component>
@@ -317,15 +314,15 @@
       <updated>1561400929177</updated>
       <workItem from="1561400930297" duration="6828000" />
       <workItem from="1561474099802" duration="25283000" />
-      <workItem from="1561659821651" duration="17435000" />
+      <workItem from="1561659821651" duration="17766000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49546000" />
+    <option name="totallyTimeSpent" value="49877000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-96" y="200" width="1392" height="843" extended-state="0" />
+    <frame x="-45" y="23" width="1392" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24981685" />
@@ -465,20 +462,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework1/pie.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="142" column="2" lean-forward="true" selection-start-line="142" selection-start-column="2" selection-end-line="147" selection-end-column="8" />
+        <state relative-caret-position="87">
+          <caret line="141" selection-start-line="141" selection-end-line="148" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework2/tmnt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="342" column="44" selection-start-line="342" selection-start-column="44" selection-end-line="342" selection-end-column="44" />
-          <folding>
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#6;n#div#1;n#div#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="88">
+          <caret line="31" column="45" lean-forward="true" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
