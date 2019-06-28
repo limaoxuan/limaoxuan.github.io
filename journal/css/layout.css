@@ -3,7 +3,8 @@ body {
     border-color: green;
 
 
-    background: url("http://mumstudents.org/cs472/2019-07-RS/Labs/2/background.gif");
+    background: url("http://mumstudents.org/cs472/2019-07-RS/Labs/2/background.gif") ;
+
 }
 
 .container {
@@ -27,7 +28,7 @@ body {
     margin-top: 10px;
     background: #9BE1E0;
     text-shadow: #FC0 1px 0 15px;
-    
+
 }
 
 
