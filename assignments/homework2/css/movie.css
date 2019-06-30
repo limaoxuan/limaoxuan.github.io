@@ -25,8 +25,9 @@
     font-size: 24pt;
     text-align: center;
     color: #040002;
-    text-shadow: 3px 3px;
+    text-shadow: 3px 3px  #999999;
     font-family: Tahoma, Verdana, SansSerif;
+    margin: 15px;
 }
 
 .content {

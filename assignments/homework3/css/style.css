@@ -1,0 +1,23 @@
+
+
+
+.content{
+    position: relative;
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.person-info{
+    background: #2A6CA9;
+    width: 100%;
+    overflow: auto;
+}
+
+
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
