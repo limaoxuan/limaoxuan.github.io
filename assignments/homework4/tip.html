@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tip Calculator</title>
+    <link type="text/css" rel="stylesheet" href="css/tip.css">
+    <script type="application/javascript" src="js/tip.js"></script>
+</head>
+<body data-gr-c-s-loaded="true">
+<h1>
+    <img id="logo" src="images/calc.jpg" alt="++--**//">
+    Tip Calculator
+</h1>
+
+<div>
+    <label><input id="subtotal" type="number" required placeholder="Subtotal"> $ Subtotal</label>
+</div>
+
+<div>
+    <label><input id="tip" type="number" required placeholder="Tip"> % Tip</label>
+</div>
+
+<div>
+    <button id="btn" onclick="calcTip();">Calculate Tip</button>
+</div>
+
+<hr>
+
+<div>
+    <h2>Your total:</h2>
+    <p id="total">$0.00</p>
+</div>
+<div class="validator">
+    <a href="https://validator.w3.org/check/referer">
+        <img src="http://mumstudents.org/cs472/images/w3c-html.png" alt="Valid HTML5"/>
+    </a>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"/>
+    </a>
+</div>
+
+</body>
+</html>
