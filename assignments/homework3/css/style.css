@@ -1,23 +1,18 @@
 
+.container{
 
-
-.content{
-    position: relative;
-    width: 80%;
-    margin: auto;
-    overflow: auto;
 }
 
-.person-info{
-    background: #2A6CA9;
-    width: 100%;
-    overflow: auto;
+fieldset{
+margin-top: 10px;
+}
+
+input[type="checkbox"] {
+    margin-top: 10px;
+}
+
+input[type="text"] {
+ width: 200px;
 }
 
 
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    text-align: center;
-}
