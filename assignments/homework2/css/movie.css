@@ -63,8 +63,8 @@
 
 .review-columns {
     position: relative;
-    columns: 258px 2;
-    column-gap: 2%;
+    column-count: 2;
+    /*column-gap: 2%;*/
     /*column-fill: unset;*/
     padding: 5px;
     /*columns: 1;*/
