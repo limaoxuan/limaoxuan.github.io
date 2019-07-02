@@ -39,6 +39,8 @@
     text-align: center;
 }
 
+
+
 fieldset {
     display: inline-block;
     border-width: 5px;
@@ -58,4 +60,8 @@ fieldset {
     background: #D4D0C8;
     color: black;
     /*border: 2px solid black;*/
+}
+
+button:disabled,button[disabled]{
+    color: gray;
 }
