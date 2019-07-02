@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ASCII Animation Viewer</title>
+    <link type="text/css" rel="stylesheet" href="css/ascii.css">
+
+</head>
+<body>
+<div class="container">
+    <div class="top-heading">CSE 190 M ASCII Animation Viewer</div>
+    <div class="my-textarea-container">
+    <textarea rows="20" cols="80" id="my-textarea">
+    </textarea>
+    </div>
+    <div class="controls-grouped">
+        <fieldset class="play-controls">
+            <legend>Play Controls</legend>
+            <button id="start">Start</button>
+            <button id="stop">Stop</button>
+        </fieldset>
+        <fieldset>
+            <legend>Animation</legend>
+            <select id="animation">
+                <option value="0">Blank</option>
+                <option value="1">Exercise</option>
+                <option value="2">Juggler</option>
+                <option value="3">Bike</option>
+                <option value="4">Dive</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>Size</legend>
+            <select id="size">
+                <option value="7pt">Tiny</option>
+                <option value="10pt">Small</option>
+                <option value="12pt" selected>Medium</option>
+                <option value="16pt">Large</option>
+                <option value="24pt">Extra Large</option>
+                <option value="32pt">XXL</option>
+            </select>
+        </fieldset>
+        <fieldset>
+            <legend>Speed</legend>
+            <input id="my-check" type="checkbox">Turbo
+        </fieldset>
+    </div>
+</div>
+
+<div class="validator">
+    <div>
+        <a href="https://validator.w3.org/check/referer">
+            <img src="http://mumstudents.org/cs472/images/w3c-html.png" alt="Valid HTML5"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://jigsaw.w3.org/css-validator/check/referer">
+            <img src="https://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS"/>
+        </a>
+    </div>
+    <div>
+        <a href="https://webster.cs.washington.edu/jslint/?referer">
+            <img src="https://webster.cs.washington.edu/w3c-js.png" alt="Valid JS"/>
+        </a>
+    </div>
+
+</div>
+<script src="js/animations.js"></script>
+<script src="js/ascii.js"></script>
+
+</body>
+</html>
