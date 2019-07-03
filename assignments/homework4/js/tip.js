@@ -1,20 +1,27 @@
+(function () {
+    function calcTip() {
+        //var subtotalElem =
+        //var tipElem =
+        var subtotal = document.getElementById('subtotal').value;
+        var tip = document.getElementById('tip').value;
 
-function calcTip() {
-    //var subtotalElem =
-    //var tipElem =
-    var subtotal = document.getElementById('subtotal').value;
-    var tip = document.getElementById('tip').value;
 
+        if (subtotal == "") {
+            alert("Please input subtotal");
+            return;
+        }
+        if (tip == "") {
+            alert("Please input tip");
+            return;
+        }
 
-    if (subtotal == "") {
-        alert("Please input subtotal");
-        return;
+        totalElem = document.getElementById('total');
+        totalElem.innerHTML = '$' + (parseFloat(subtotal) + subtotal * tip * 0.01);
     }
-    if (tip == "") {
-        alert("Please input tip");
-        return;
-    }
 
-    totalElem = document.getElementById('total');
-    totalElem.innerHTML = '$' + (parseFloat(subtotal) + subtotal * tip * 0.01);
-}
+
+    window.onload = function () {
+        document.getElementById("btn").onclick = calcTip;
+    }
+})();
+
