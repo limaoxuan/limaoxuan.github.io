@@ -37,14 +37,6 @@ let bicycle = (function () {
         return newObj;
     }
 
-    // CreateMountainBikePrototype.prototype.init = function (obj) {
-    //     let newObj = Object.create(obj);
-    //     newObj.gear = 1;
-    //     newObj.setGear = (value) => {
-    //         newObj.gear = value;
-    //     };
-    //     return newObj;
-    // };
 
 //Write third function expression named start that
 // first make bicyclePrototype object using first function and
@@ -56,13 +48,17 @@ let bicycle = (function () {
         return createMountainBikePrototype(bicyclePrototype);
     }
 
-    var obj = start();
-    var obj1 = start();
-    console.log(obj);
-    console.log(obj1)
-    console.log(obj == obj1);
-    // console.log(Array)
+
+
+    return {
+        createBicyclePrototype,
+        createMountainBikePrototype,
+        start
+    }
 })();
+// console.log(bicycle.start());
+
+console.log(bicycle.start());
 
 
 class Bicycle {
