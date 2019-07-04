@@ -1,12 +1,12 @@
 // record random point;
-let record = [];
+
 (function () {
     'use strict';
+    let record = [];
     let myDiv;
     let empty = {left: 300, top: 300};
     let stack = [];
     var divs = [];
-
 
 
     let init = function () {
@@ -59,6 +59,9 @@ let record = [];
             pointMove(div, empty, movePoint.x, movePoint.y);
 
         }
+        console.log("shuffle records");
+        console.log(record);
+        console.log("========");
     }
 
 // get point element
@@ -99,6 +102,7 @@ let record = [];
         return point;
 
     }
+
     // whether out of the bound
     function bound(x, y) {
 
