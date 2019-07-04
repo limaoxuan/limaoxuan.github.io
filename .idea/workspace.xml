@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/homework8/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework8/maze.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/homework8/fifteen.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework8/fifteen.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -48,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/homework8/fifteen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="85" />
+            <state relative-caret-position="491">
+              <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -62,7 +61,7 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assignments/homework8/maze.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -202,8 +201,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assignments/homework8/js/fifteen.js" />
         <option value="$PROJECT_DIR$/css/index.css" />
-        <option value="$PROJECT_DIR$/assignments/homework8/fifteen.html" />
         <option value="$PROJECT_DIR$/assignments/homework8/maze.html" />
+        <option value="$PROJECT_DIR$/assignments/homework8/fifteen.html" />
       </list>
     </option>
   </component>
@@ -214,8 +213,8 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-22" />
-    <option name="y" value="24" />
+    <option name="x" value="255" />
+    <option name="y" value="29" />
     <option name="width" value="1392" />
     <option name="height" value="843" />
   </component>
@@ -389,12 +388,12 @@
       <workItem from="1562091529311" duration="8765000" />
       <workItem from="1562178456860" duration="8836000" />
       <workItem from="1562254623583" duration="1728000" />
-      <workItem from="1562265732194" duration="7381000" />
+      <workItem from="1562265732194" duration="7650000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105237000" />
+    <option name="totallyTimeSpent" value="105506000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-22" y="24" width="1392" height="843" extended-state="0" />
@@ -746,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework8/fifteen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="85" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework8/js/maze.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-93">
@@ -767,6 +759,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="11" column="90" selection-start-line="11" selection-start-column="90" selection-end-line="11" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework8/fifteen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="16" column="36" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
         </state>
       </provider>
     </entry>
