@@ -1,13 +1,15 @@
 // record random point;
 let record = [];
 (function () {
+    'use strict';
     let myDiv;
     let empty = {left: 300, top: 300};
     let stack = [];
     var divs = [];
 
 
-    init = function () {
+
+    let init = function () {
         var puzzleArea = document.getElementById('puzzlearea');
         divs = puzzleArea.getElementsByTagName("div");
 
@@ -69,6 +71,7 @@ let record = [];
         }
     }
 
+// get next point
     function getNextPoint(x, y) {
         let isNext = false;
         let point = {};
@@ -96,7 +99,7 @@ let record = [];
         return point;
 
     }
-
+    // whether out of the bound
     function bound(x, y) {
 
         // the nearest changing point doesn't allow change
