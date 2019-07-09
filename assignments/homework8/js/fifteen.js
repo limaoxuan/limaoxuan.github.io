@@ -8,7 +8,6 @@
     let stack = [];
     var divs = [];
 
-
     let init = function () {
         var puzzleArea = document.getElementById('puzzlearea');
         divs = puzzleArea.getElementsByTagName("div");
