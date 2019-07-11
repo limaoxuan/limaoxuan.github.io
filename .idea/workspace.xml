@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutme/css/styleme.css" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme/css/styleme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aboutme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/aboutme/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/homework1/css/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework1/css/recipe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/homework3/shoppingCart.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework3/shoppingCart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assignments/homework8/js/fifteen.js" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/homework8/js/fifteen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -68,15 +62,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="1056">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assignments/HelloWorld/HellpWorld.iml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -218,7 +207,7 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="506" />
+    <option name="x" value="48" />
     <option name="y" value="23" />
     <option name="width" value="1392" />
     <option name="height" value="843" />
@@ -228,6 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,55 +239,6 @@
             <path>
               <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assignments" type="462c0819:PsiDirectoryNode" />
-              <item name="homework8" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -309,7 +250,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -407,19 +347,19 @@
       <workItem from="1562352900173" duration="678000" />
       <workItem from="1562537594083" duration="6000" />
       <workItem from="1562549528230" duration="1860000" />
-      <workItem from="1562612303290" duration="876000" />
+      <workItem from="1562612303290" duration="1194000" />
+      <workItem from="1562703043307" duration="659000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109845000" />
+    <option name="totallyTimeSpent" value="110822000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="506" y="23" width="1392" height="843" extended-state="0" />
-    <editor active="true" />
+    <frame x="228" y="23" width="1392" height="843" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78299123" visible="true" weight="0.24981685" />
-      <window_info id="Structure" order="1" sideWeight="0.2170088" side_tool="true" visible="true" weight="0.24981685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78152496" visible="true" weight="0.24981685" />
+      <window_info id="Structure" order="1" sideWeight="0.21847507" side_tool="true" visible="true" weight="0.24981685" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.109970674" />
@@ -719,6 +659,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/aboutme/css/styleme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework8/js/attack.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3072">
@@ -746,12 +693,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/index.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="832">
-          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        <state relative-caret-position="1056">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/HelloWorld/HellpWorld.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework8/js/turtles.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,23 +713,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/HelloWorld/HellpWorld.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aboutme/css/styleme.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="832">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
         </state>
       </provider>
     </entry>
