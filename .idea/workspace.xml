@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aboutme/css/styleme.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
               <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -146,7 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/journal/css/layout.css" />
         <option value="$PROJECT_DIR$/assignments/homework2/test.html" />
         <option value="$PROJECT_DIR$/assignments/homework2/css/test.css" />
         <option value="$PROJECT_DIR$/assignments/homework2/css/movie.css" />
@@ -197,6 +205,7 @@
         <option value="$PROJECT_DIR$/assignments/homework3/shoppingCart.html" />
         <option value="$PROJECT_DIR$/assignments/homework1/css/recipe.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java" />
       </list>
     </option>
   </component>
@@ -207,7 +216,7 @@
     <other-services-enabled>false</other-services-enabled>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="48" />
+    <option name="x" value="394" />
     <option name="y" value="23" />
     <option name="width" value="1392" />
     <option name="height" value="843" />
@@ -239,12 +248,62 @@
             <path>
               <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="journal" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assignments" type="462c0819:PsiDirectoryNode" />
+              <item name="SateManagement" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listener" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="limaoxuan.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="limaoxuan.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -349,17 +408,19 @@
       <workItem from="1562549528230" duration="1860000" />
       <workItem from="1562612303290" duration="1194000" />
       <workItem from="1562703043307" duration="659000" />
+      <workItem from="1562809520098" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110822000" />
+    <option name="totallyTimeSpent" value="111065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="23" width="1392" height="843" extended-state="0" />
+    <frame x="394" y="23" width="1392" height="843" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78152496" visible="true" weight="0.24981685" />
-      <window_info id="Structure" order="1" sideWeight="0.21847507" side_tool="true" visible="true" weight="0.24981685" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7800586" visible="true" weight="0.24981685" />
+      <window_info id="Structure" order="1" sideWeight="0.21994135" side_tool="true" visible="true" weight="0.24981685" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.109970674" />
@@ -382,13 +443,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assignments/homework4/js/buggy3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/journal/journal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -659,6 +713,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/HelloWorld/HellpWorld.iml" />
     <entry file="file://$PROJECT_DIR$/aboutme/css/styleme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -700,9 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assignments/HelloWorld/HellpWorld.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assignments/homework1/css/recipe.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -717,6 +769,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="832">
           <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="25" column="11" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
         </state>
       </provider>
     </entry>

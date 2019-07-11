@@ -19,11 +19,11 @@ public class AuthenticationFilter implements Filter {
 
         HttpServletRequest myReq = (HttpServletRequest) req;
         HttpServletResponse myResp = (HttpServletResponse) resp;
-        Cookie[] cookies = myReq.getCookies();
-        for (Cookie cookie : cookies) {
-            System.out.println(cookie.getName());
-            System.out.println(cookie.getValue());
-        }
+//        Cookie[] cookies = myReq.getCookies();
+//        for (Cookie cookie : cookies) {
+//            System.out.println(cookie.getName());
+//            System.out.println(cookie.getValue());
+//        }
 
         System.out.println(myReq.getSession().getAttribute("user"));
         if (myReq.getSession().getAttribute("user") != null) {
