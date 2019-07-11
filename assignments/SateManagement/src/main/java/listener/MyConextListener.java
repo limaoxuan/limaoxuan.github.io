@@ -11,9 +11,7 @@ import javax.servlet.annotation.WebListener;
 public class MyConextListener implements ServletContextListener {
     @Override
     public void contextInitialized(ServletContextEvent servletContextEvent) {
-
         DataBase.getDataBaseInstance();
-
     }
 
     @Override

@@ -20,7 +20,6 @@ public class LoginServlet extends HttpServlet {
     }
 
 
-
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         String username = req.getParameter("username");
@@ -31,29 +30,36 @@ public class LoginServlet extends HttpServlet {
         if (users.containsKey(username) && users.get(username).getPassword().equals(password)) {
             HttpSession session = req.getSession();
             session.setAttribute("user", users.get(username));
-            session.setAttribute("myCookie",false);
+//            session.setAttribute("myCookie",false);
             if (checkBox != null) {
                 String sessionid = session.getId();
                 Cookie cookie = new Cookie("JSESSIONID", sessionid);
                 Cookie cookie1 = new Cookie("username", username);
-                session.setAttribute("myCookie",true);
+//                session.setAttribute("myCookie",true);
                 cookie.setMaxAge(60 * 60 * 24 * 30);
                 cookie1.setMaxAge(60 * 60 * 24 * 30);
                 resp.addCookie(cookie);
                 resp.addCookie(cookie1);
+            } else {
+                Cookie cookie1 = new Cookie("username", null);
+                cookie1.setMaxAge(0);
+                resp.addCookie(cookie1);
             }
 
-
+            req.getSession().setAttribute("error","");
 // 4 Create a persistent cookie named promo and save value $100 inside the cookie that last for a month in user's machine.
             Cookie cookie = new Cookie("promo", "$100");
             cookie.setMaxAge(60 * 60 * 24 * 30);
             resp.addCookie(cookie);
-
-
             resp.sendRedirect(req.getContextPath() + "/main");
 
-        }
+        } else {
+            HttpSession session = req.getSession();
+            session.invalidate();
+            req.getSession().setAttribute("error","Username or password wrong");
 
+            resp.sendRedirect(req.getContextPath() + "/login");
+        }
 
     }
 }

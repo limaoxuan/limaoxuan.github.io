@@ -19,16 +19,17 @@
     <fieldset>
         <legend>Login</legend>
         <div>
-            <span>Username : </span><input type="text" name="username" autocomplete="off" placeholder="username" value="${user.username}"/>
+            <span>Username : </span><input type="text" name="username" autocomplete="off" placeholder="username" value="${cookie.username.value}"/>
         </div>
         <div>
             <span>Password : </span><input type="password" name="password" autocomplete="off" placeholder="password"/>
         </div>
         <div>
             save 1 month:
-            <input type="checkbox" name="checkbox"  <c:if test="${myCookie}">checked="checked"</c:if>/>
+            <input type="checkbox" name="checkbox"  <c:if test="${cookie.containsKey('username')}">checked="checked"</c:if>/>
         </div>
         <input type="submit" value="login"/>
+        <div>${error}</div>
     </fieldset>
 </form>
 </body>
