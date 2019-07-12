@@ -1,0 +1,16 @@
+.shopping-list{
+
+}
+
+.my-item {
+    margin: 10px;
+}
+
+.my-item .my-img {
+    width: 200px;
+}
+
+.right-side {
+    display: inline-block;
+    margin: 15px;
+}

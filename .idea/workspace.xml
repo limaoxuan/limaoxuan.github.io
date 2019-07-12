@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c249fab-dda7-47a7-a1da-c45047729887" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+            <state relative-caret-position="672">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -409,12 +407,12 @@
       <workItem from="1562612303290" duration="1194000" />
       <workItem from="1562703043307" duration="659000" />
       <workItem from="1562809520098" duration="476000" />
-      <workItem from="1562869526066" duration="213000" />
+      <workItem from="1562869526066" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111511000" />
+    <option name="totallyTimeSpent" value="111928000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1392" height="843" extended-state="0" />
@@ -774,8 +772,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assignments/SateManagement/src/main/java/filter/AuthenticationFilter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        <state relative-caret-position="672">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
